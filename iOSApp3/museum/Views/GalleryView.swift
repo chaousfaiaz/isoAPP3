@@ -2,7 +2,7 @@
 //  GalleryView.swift
 //  iOSApp3
 //
-//  Created by Fatima Bdair on 2025-03-02.
+//  Created by MD FAIAZ on 2026-07-01.
 //
 
 import SwiftUI
