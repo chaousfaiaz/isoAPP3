@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Chapter22App: App {
+struct Museum: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
